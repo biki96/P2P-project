@@ -1,0 +1,20 @@
+{
+  "name": "projekat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "connect": "^3.6.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express.io": "^1.1.13",
+    "nodemon": "^1.18.3"
+  }
+}
